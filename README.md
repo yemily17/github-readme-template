@@ -1,5 +1,5 @@
 [![Followers](https://img.shields.io/github/followers/yemily17?label=Followers&style=flat-square)](https://github.com/yemily17)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-24-blue?style=flat-square)](https://github.com/yemily17?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-25-blue?style=flat-square)](https://github.com/yemily17?tab=repositories)
 
 ## About
 👋 Heyo, I'm Major League Hacking (Emily). I'm a student developer passionate about hackathons and building innovative projects. I work on various coding projects and enjoy participating in hackathons to learn new technologies and collaborate with other developers.
@@ -7,12 +7,12 @@
 - 📍 Location: Currently exploring the world of tech
 - 🎓 Education: National University (July 2024 - August 2024)
 - 📅 Hacking Since: 2019 (GitHub member since January 2019)
-- 🏆 GitHub Stats: 24 public repositories, 8 followers
+- 🏆 GitHub Stats: 25 public repositories, 8 followers
 
 ## Featured Projects
 - 🎲 Personal Profile — My GitHub profile repository showcasing my work and interests. — github.com/yemily17/yemily17
 - 🛠️ GitHub README Template — A customizable template for creating professional GitHub profiles. — github.com/thisisryanswift/github-readme-template
-- 🤖 Exploring repositories — Check out my 24 public repositories for various projects and experiments! — github.com/yemily17
+- 🤖 Exploring repositories — Check out my 25 public repositories for various projects and experiments! — github.com/yemily17
 
 ## Tech & Interests
 - 🧰 Languages: JavaScript, Python, HTML/CSS
